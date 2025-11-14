@@ -36,16 +36,16 @@ This regional breakdown enhances our understanding of the **geographic and legal
 ### 📌 Figures 2 – 11:
 | Region | Figure |
 |--------|--------|
-| Region 1 | ![Figure 2](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/c3626585564623dac50a3429fc7ffc9d4d2294c1/region_1.png) |
-| Region 2 | ![Figure 3](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_2.png) |
-| Region 3 | ![Figure 4](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_3.png) |
-| Region 4 | ![Figure 5](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_4.png) |
-| Region 5 | ![Figure 6](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_5.png) |
-| Region 6 | ![Figure 7](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_6.png) |
-| Region 7 | ![Figure 8](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_7.png) |
-| Region 8 | ![Figure 9](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_8.png) |
-| Region 9 | ![Figure 10](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_9.png) |
-| Region 10 | ![Figure 11](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_10.png) |
+| Region 1 | ![Figure 2](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region1.png) |
+| Region 2 | ![Figure 3](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region2.png) |
+| Region 3 | ![Figure 4](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region3.png) |
+| Region 4 | ![Figure 5](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region4.png) |
+| Region 5 | ![Figure 6](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region5.png) |
+| Region 6 | ![Figure 7](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region6.png) |
+| Region 7 | ![Figure 8](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region7.png) |
+| Region 8 | ![Figure 9](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region8.png) |
+| Region 9 | ![Figure 10](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region9.png) |
+| Region 10 | ![Figure 11](https://github.com/nondon1/Data-analysis-using-ArcGIS-PRO-Desktop/blob/main/Region10.png) |
 
 ---
 
